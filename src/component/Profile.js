@@ -116,7 +116,7 @@ const Profile = ({
               </li>
               <li>
                 <a className="inline-block p-3" href="#">
-                  <span className="hidden md:inline">Likes {likes}</span>
+                  <span className="hidden md:inline">Likes {total_likes}</span>
                 </a>
               </li>
               <li>
